@@ -1,8 +1,9 @@
 # JSN-SR04T-2.0
 Arduino library for communication with JSN-SR07T-2.0 ultrasonic sensor
 
-<a>The jsn module can be used in three different modes:</a>
-<a>Mode1: R27 open</a>
+The jsn module can be used in three different modes:
+  
+Mode1: R27 open
 
 the basic working principle:
 
